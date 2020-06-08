@@ -10,7 +10,6 @@ public class Card {
 	}
 	
 	enum Rank {
-		ONE,
 		TWO,
 		THREE,
 		FOUR,
